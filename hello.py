@@ -1,3 +1,3 @@
-excitinge
-print('Hello, world.')
+exciting
+print('Hello, world. :)')
 
